@@ -1,0 +1,94 @@
+{
+    "data":[
+  {
+    "_id": "592dadf1b54454a40558bbb7",
+    "index": 0,
+    "guid": "1959531d-0823-4806-8c2d-6715ada6b5c8",
+    "isActive": true,
+    "balance": "$1,082.11",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "green",
+    "name": {
+      "first": "Marquez",
+      "last": "Castaneda"
+    },
+    "company": "DIGITALUS"
+  },
+  {
+    "_id": "592dadf1a8c420c0b6a739fb",
+    "index": 1,
+    "guid": "739c5b69-acdd-4b7f-a2a2-f70f2f956788",
+    "isActive": false,
+    "balance": "$2,293.57",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Saunders",
+      "last": "Mueller"
+    },
+    "company": "CRUSTATIA"
+  },
+  {
+    "_id": "592dadf1c12d71a06f81de2d",
+    "index": 2,
+    "guid": "6447421c-4040-436b-b782-2b0fad76e848",
+    "isActive": false,
+    "balance": "$1,421.41",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Leonor",
+      "last": "Stanley"
+    },
+    "company": "EXPOSA"
+  },
+  {
+    "_id": "592dadf1ed447c231cccdafc",
+    "index": 3,
+    "guid": "59128588-bc33-438c-a490-5c7a33b4db0f",
+    "isActive": true,
+    "balance": "$2,186.17",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Nunez",
+      "last": "Irwin"
+    },
+    "company": "GINK"
+  },
+  {
+    "_id": "592dadf1a4ddc1db4078a6a2",
+    "index": 4,
+    "guid": "8635ea53-888a-4109-8d8b-9a57351804fb",
+    "isActive": true,
+    "balance": "$1,633.35",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": {
+      "first": "Stafford",
+      "last": "Juarez"
+    },
+    "company": "DAISU"
+  },
+  {
+    "_id": "592dadf13ac11712d12e9380",
+    "index": 5,
+    "guid": "f0d1599e-16c5-42ed-a301-3aebd14ae825",
+    "isActive": false,
+    "balance": "$2,454.80",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Letitia",
+      "last": "Santana"
+    },
+    "company": "IZZBY"
+  }
+]
+}
