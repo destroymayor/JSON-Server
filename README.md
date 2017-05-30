@@ -9,7 +9,7 @@
 ## JSON 資料產生器 ##
    ### [JSON-Generator](http://beta.json-generator.com/) ###
 
-    <pre> [
+    <pre><code> [
   {
     'repeat(100, 10)': {
       _id: '{{objectId()}}',
@@ -27,4 +27,4 @@
       company: '{{company().toUpperCase()}}'
   }
   }
-    ] </pre>
+    ] </code></pre>
