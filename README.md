@@ -8,12 +8,14 @@
 
 ## 自訂路由 ##
 - 建立路由定義檔(routes.json) <br/>
+
     {
         "/api/":"/",
         "blog/:resource/id:/show":/:resource/:id"
     }
 
 - 啟動路由 <br/>
+
     $ json-server db.json --routes routes.json
 
 ## JSON 資料產生器 ##
