@@ -9,6 +9,7 @@
 ## JSON 資料產生器 ##
    ### [JSON-Generator](http://beta.json-generator.com/) ###
 
+   ### example ###
     [
         {
             'repeat(100, 10)': {
