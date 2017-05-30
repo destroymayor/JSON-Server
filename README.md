@@ -2,9 +2,18 @@
     $ npm install -g json-server 
 
 ## Start ##
-    $ json-server --watch db.json 
+    $ json-server -w db.json 
 
  在終端輸入 s 並按下enter可儲存當前資料庫快照
+
+## 自訂路由 ##
+- 建立路由定義檔(routes.json)
+    {
+        "/api/":"/",
+        "blog/:resource/id:/show":/:resource/:id"
+    }
+- 啟動路由
+    $ json-server db.json --routes routes.json
 
 ## JSON 資料產生器 ##
    #### [JSON-Generator](http://beta.json-generator.com/) ####
