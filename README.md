@@ -12,6 +12,7 @@
         "/api/":"/",
         "blog/:resource/id:/show":/:resource/:id"
     }
+    
 - 啟動路由
     $ json-server db.json --routes routes.json
 
